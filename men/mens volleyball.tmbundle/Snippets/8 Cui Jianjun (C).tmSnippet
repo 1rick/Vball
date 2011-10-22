@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>digs</string>
+	<string>Cui Jianjun</string>
 	<key>name</key>
-	<string>[d] digs</string>
+	<string>8 Cui Jianjun (C)</string>
 	<key>tabTrigger</key>
-	<string>d</string>
+	<string>z</string>
 	<key>uuid</key>
-	<string>09D7D97D-EDF5-4BE2-AC61-DCB5205E2499</string>
+	<string>73BE66A9-27DD-4DE3-B38E-401CD537C63A</string>
 </dict>
 </plist>

@@ -2,6 +2,13 @@
 
 Remembering all these names is really difficult, and spelling them right is even worse. So here are some text shortcuts to use when writing in TextMate (I use them when reporting matches courtside). This contains two snippet bundles, one for women's and one for men's (not yet finished).
 
+###Three snippet bundles
+* mens
+* womens
+* other snippets 
+
+**Note: don't install men's and women's bundle at once, since the country shortcuts overlap (i.e. Japan mens will conflict with Japan womens)**
+
 ###Tab Triggers
 ####For full name
 j+TAB - brings up Japan Team, then select name:
@@ -11,7 +18,31 @@ j+TAB - brings up Japan Team, then select name:
 * j2+TAB = player no 2, Hitomi Nakamichi
 * and so on, up to no player 20.
 
-###Play-by-play tab triggers (for note-taking)
+####Country shortcuts:
+
+(add a number to bring up a specific player surname, i.e. j1+TAB)
+
+* al - algeria
+* ar - argentina
+* c - cuba
+* cr - costa rica
+* e - egypt
+* g - germany
+* i - italy
+* j - japan
+* n - netherlands
+* pe - peru
+* po - poland
+* r - russia
+* se - serbia
+* t - turkey
+* u - usa
+* z - china
+
+
+
+
+### Other snippets: Play-by-play tab triggers for note-taking
 * a = serves
 * aa == with a great serve
 * aaa === with an ace

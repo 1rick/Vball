@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FIVB 2011 Women's Volleyball World Cup </string>
+	<string>Zhao Mudi </string>
 	<key>name</key>
-	<string>wc</string>
+	<string>9 Zhao Mudi</string>
 	<key>tabTrigger</key>
-	<string>wc</string>
+	<string>z</string>
 	<key>uuid</key>
-	<string>7495B6BC-91A4-4FD0-823E-E3F1DADABCB3</string>
+	<string>E4886633-061F-4BD4-A06B-3DBC6646CB66</string>
 </dict>
 </plist>

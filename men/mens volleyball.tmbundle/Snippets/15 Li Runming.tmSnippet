@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FIVB 2011 Women's Volleyball World Cup </string>
+	<string>Li Runming </string>
 	<key>name</key>
-	<string>wc</string>
+	<string>15 Li Runming</string>
 	<key>tabTrigger</key>
-	<string>wc</string>
+	<string>z</string>
 	<key>uuid</key>
-	<string>7495B6BC-91A4-4FD0-823E-E3F1DADABCB3</string>
+	<string>CAB0BF8C-EF30-4F50-9EAD-316E08BA4546</string>
 </dict>
 </plist>

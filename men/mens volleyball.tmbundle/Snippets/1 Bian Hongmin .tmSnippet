@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FIVB 2011 Women's Volleyball World Cup </string>
+	<string>Bian Hongmin </string>
 	<key>name</key>
-	<string>wc</string>
+	<string>1 Bian Hongmin </string>
 	<key>tabTrigger</key>
-	<string>wc</string>
+	<string>z</string>
 	<key>uuid</key>
-	<string>7495B6BC-91A4-4FD0-823E-E3F1DADABCB3</string>
+	<string>EEC8513B-95E2-48E9-9396-7DD09805BA7C</string>
 </dict>
 </plist>
