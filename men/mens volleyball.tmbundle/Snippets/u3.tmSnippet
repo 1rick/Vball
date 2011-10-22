@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Patek </string>
+	<key>name</key>
+	<string>u3</string>
+	<key>tabTrigger</key>
+	<string>u3</string>
+	<key>uuid</key>
+	<string>4741B628-80AF-48D9-A71C-01453663B168</string>
+</dict>
+</plist>

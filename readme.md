@@ -46,22 +46,17 @@ j+TAB - brings up Japan Team, then select name:
 * a = serves
 * aa == with a great serve
 * aaa === with an ace
-
 * b = blocks
 * bb = with a great block
 * bbb = with an incredible block
-
 * s = spikes
 * ss = with a great spike
 * sss = with an incredible spike
-
 * d = with a dig
 * dd = with a great dig
 * ddd = with a miraculous dig
-
 * t = with a tip at the net
 * tt = with a great tip at the net
 * ttt = with a beautiful tip at the net
-
 * pp = past the defender
 
