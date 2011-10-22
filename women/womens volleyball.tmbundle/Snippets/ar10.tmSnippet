@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Sosa </string>
+	<key>name</key>
+	<string>ar10</string>
+	<key>tabTrigger</key>
+	<string>ar10</string>
+	<key>uuid</key>
+	<string>4177C775-D609-4D7B-B3D8-16C1BE23E9DB</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Rizzo </string>
+	<key>name</key>
+	<string>ar8</string>
+	<key>tabTrigger</key>
+	<string>ar8</string>
+	<key>uuid</key>
+	<string>1112E220-9AD7-4F96-995F-EDDA0FD1B5D9</string>
+</dict>
+</plist>

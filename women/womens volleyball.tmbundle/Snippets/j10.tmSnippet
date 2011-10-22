@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Iwasaka </string>
+	<key>name</key>
+	<string>j10</string>
+	<key>tabTrigger</key>
+	<string>j10</string>
+	<key>uuid</key>
+	<string>9432B74A-A4AA-465C-9485-A4EB6418D686</string>
+</dict>
+</plist>

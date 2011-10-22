@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Shinnabe </string>
+	<key>name</key>
+	<string>j13</string>
+	<key>tabTrigger</key>
+	<string>j13</string>
+	<key>uuid</key>
+	<string>27836C0E-0655-47BF-99D7-542BF28252CD</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Zayasu </string>
+	<key>name</key>
+	<string>j8</string>
+	<key>tabTrigger</key>
+	<string>j8</string>
+	<key>uuid</key>
+	<string>CBD2F59F-62CE-41AD-BC17-0781F750B0ED</string>
+</dict>
+</plist>

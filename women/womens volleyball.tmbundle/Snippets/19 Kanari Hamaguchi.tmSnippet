@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Kanari Hamaguchi </string>
+	<key>name</key>
+	<string>19 Kanari Hamaguchi</string>
+	<key>tabTrigger</key>
+	<string>j</string>
+	<key>uuid</key>
+	<string>7F04B936-07A8-4034-BB9A-5CA14C899B1A</string>
+</dict>
+</plist>
