@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Sergey Tetyukhin </string>
+	<key>name</key>
+	<string>8 Sergey Tetyukhin</string>
+	<key>tabTrigger</key>
+	<string>r</string>
+	<key>uuid</key>
+	<string>D2C92FC2-D82D-42FF-93FD-9C5CD98E059C</string>
+</dict>
+</plist>

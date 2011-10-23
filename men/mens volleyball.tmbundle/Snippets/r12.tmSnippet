@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Butko </string>
+	<key>name</key>
+	<string>r12</string>
+	<key>tabTrigger</key>
+	<string>r12</string>
+	<key>uuid</key>
+	<string>3A3B9CA0-B5BA-4B86-96F8-93132C4A3A44</string>
+</dict>
+</plist>

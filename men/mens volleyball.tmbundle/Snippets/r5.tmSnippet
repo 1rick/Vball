@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Grankin </string>
+	<key>name</key>
+	<string>r5</string>
+	<key>tabTrigger</key>
+	<string>r5</string>
+	<key>uuid</key>
+	<string>AD2FC1D5-5795-4186-BDCD-C7C7E2436BFF</string>
+</dict>
+</plist>

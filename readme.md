@@ -22,30 +22,30 @@ j+TAB - brings up Japan Team, then select name:
 
 (add a number to bring up a specific player surname, i.e. j1+TAB)
 
-* al - algeria
-* ar - argentina
-* c - cuba
-* cr - costa rica
-* e - egypt
-* g - germany
-* i - italy
-* j - japan
-* n - netherlands
-* pe - peru
-* po - poland
-* r - russia
-* se - serbia
-* t - turkey
-* u - usa
-* z - china
+* al - Algeria
+* ar - Argentina
+* c - Cuba
+* cr - Costa Rica
+* e - Egypt
+* g - Germany
+* i - Italy
+* j - Japan
+* n - Netherlands
+* pe - Peru
+* po - Poland
+* r - Russia
+* se - Serbia
+* t - Turkey
+* u - Usa
+* z - China
 
 
 
 
 ### Other snippets: Play-by-play tab triggers for note-taking
 * a = serves
-* aa == with a great serve
-* aaa === with an ace
+* aa = with a great serve
+* aaa = with an ace
 * b = blocks
 * bb = with a great block
 * bbb = with an incredible block
