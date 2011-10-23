@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Boninfante </string>
+	<key>name</key>
+	<string>i10</string>
+	<key>tabTrigger</key>
+	<string>i10</string>
+	<key>uuid</key>
+	<string>29718146-4279-4F18-902B-04C3067ECB1B</string>
+</dict>
+</plist>

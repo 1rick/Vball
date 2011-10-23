@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Lasko </string>
+	<key>name</key>
+	<string>i7</string>
+	<key>tabTrigger</key>
+	<string>i7</string>
+	<key>uuid</key>
+	<string>A8E25FDB-BC56-419A-A114-E52EB6E34061</string>
+</dict>
+</plist>
