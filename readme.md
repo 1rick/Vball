@@ -24,6 +24,7 @@ j+TAB - brings up Japan Team, then select name:
 
 * al - Algeria
 * ar - Argentina
+* br - Brazil
 * c - Cuba
 * cr - Costa Rica
 * e - Egypt
