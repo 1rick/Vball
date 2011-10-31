@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Ahmed El Shikh (A. Aly) </string>
+	<key>name</key>
+	<string>14 Ahmed El Shikh (A. Aly)</string>
+	<key>tabTrigger</key>
+	<string>e</string>
+	<key>uuid</key>
+	<string>727A1140-B194-4991-B410-91A4EE6CF5B1</string>
+</dict>
+</plist>
