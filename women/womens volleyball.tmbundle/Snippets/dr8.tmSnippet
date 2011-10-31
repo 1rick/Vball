@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Arias </string>
+	<key>name</key>
+	<string>dr8</string>
+	<key>tabTrigger</key>
+	<string>dr8</string>
+	<key>uuid</key>
+	<string>910F9919-6990-404C-A17E-4DFDA2436EFA</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Toribio </string>
+	<key>name</key>
+	<string>dr15</string>
+	<key>tabTrigger</key>
+	<string>dr15</string>
+	<key>uuid</key>
+	<string>EF51915C-A6E2-4A8A-A7E2-6605660649E6</string>
+</dict>
+</plist>

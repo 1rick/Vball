@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Milagros Cabral de la Cruz </string>
+	<key>name</key>
+	<string>10 Milagros Cabral de la Cruz (C)</string>
+	<key>tabTrigger</key>
+	<string>dr</string>
+	<key>uuid</key>
+	<string>44884075-B71C-4501-9BBC-E96A2CC674E7</string>
+</dict>
+</plist>

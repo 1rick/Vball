@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Coach Kim Hyung-Sil </string>
+	<key>name</key>
+	<string>kcoach</string>
+	<key>tabTrigger</key>
+	<string>kcoach</string>
+	<key>uuid</key>
+	<string>F97B1965-34EE-40F3-BA83-2318E12FA6D0</string>
+</dict>
+</plist>
