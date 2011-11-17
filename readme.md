@@ -2,6 +2,8 @@
 
 Remembering all these names is really difficult, and spelling them right is even worse. So here are some text shortcuts to use when writing in TextMate (I use them when reporting matches courtside). This contains two snippet bundles, one for women's and one for men's (not yet finished).
 
+**[See video demo](http://1rick.com/blog/volleyball-reporting-using-textmate-snippets)**
+
 ###Three snippet bundles
 * mens
 * womens
