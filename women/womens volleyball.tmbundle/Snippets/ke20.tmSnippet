@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Bosire </string>
+	<key>name</key>
+	<string>ke20</string>
+	<key>tabTrigger</key>
+	<string>ke20</string>
+	<key>uuid</key>
+	<string>220E5967-788A-4035-9239-1B6E0B09FBB2</string>
+</dict>
+</plist>

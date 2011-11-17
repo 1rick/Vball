@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>deleted</key>
+	<array>
+		<string>AD23EA9D-A440-42B1-861F-9BEC0ACECD1B</string>
+	</array>
 	<key>name</key>
 	<string>OtherVballSnippets</string>
 	<key>ordering</key>
@@ -23,7 +27,6 @@
 		<string>5FD4E1AA-3303-49A5-AE15-61E49330BEF9</string>
 		<string>3F63FBC5-5C95-45CA-99D8-B2F270710C8B</string>
 		<string>3A103832-1419-4E3D-9831-F15F8200B631</string>
-		<string>AD23EA9D-A440-42B1-861F-9BEC0ACECD1B</string>
 		<string>6A771615-45B3-4D15-A90E-84A50865984C</string>
 		<string>61EB2EB4-F156-4A51-A0DD-8B1CF8B5F108</string>
 	</array>

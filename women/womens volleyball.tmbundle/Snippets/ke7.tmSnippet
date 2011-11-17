@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Wanja</string>
+	<key>name</key>
+	<string>ke7</string>
+	<key>tabTrigger</key>
+	<string>ke7</string>
+	<key>uuid</key>
+	<string>63897795-AF3E-4DF9-BF9E-9F8E0097306E</string>
+</dict>
+</plist>

@@ -7,16 +7,16 @@
 	<key>content</key>
 	<string>HEADLINE
 $0
-Hiroshima, Japan, `date +"%B%e, %Y"` -  vs  Press Conference
+Tokyo, Japan, `date +"%B%e, %Y"`, Press Conference, -
 
-** p **: 
+****: 
 
-** c **: 
+****: 
 
 
-** p **: 
+****: 
 
-** c **: 
+****: 
 </string>
 	<key>name</key>
 	<string>Press Conf Template</string>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Murambi </string>
+	<key>name</key>
+	<string>ke10</string>
+	<key>tabTrigger</key>
+	<string>ke10</string>
+	<key>uuid</key>
+	<string>9FC754FB-1F3A-42D5-BF5C-3F92F499C091</string>
+</dict>
+</plist>

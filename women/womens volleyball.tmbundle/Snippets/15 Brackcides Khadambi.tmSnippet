@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Brackcides Khadambi </string>
+	<key>name</key>
+	<string>15 Brackcides Khadambi</string>
+	<key>tabTrigger</key>
+	<string>ke</string>
+	<key>uuid</key>
+	<string>5946C17C-CC63-47BA-B61F-9E1DDFB1F924</string>
+</dict>
+</plist>
