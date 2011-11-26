@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Bravo </string>
+	<string>Leon </string>
 	<key>name</key>
-	<string>br15</string>
+	<string>c1</string>
 	<key>tabTrigger</key>
-	<string>br15</string>
+	<string>c1</string>
 	<key>uuid</key>
-	<string>542B1303-267C-4EC0-ABA1-A16DB725E895</string>
+	<string>C520DEE4-635C-4CBD-B8DD-C366446393F5</string>
 </dict>
 </plist>

@@ -2,13 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>content</key>
-	<string>Bravo </string>
 	<key>name</key>
-	<string>br15</string>
+	<string>ar</string>
 	<key>tabTrigger</key>
-	<string>br15</string>
+	<string>ar</string>
 	<key>uuid</key>
-	<string>542B1303-267C-4EC0-ABA1-A16DB725E895</string>
+	<string>1E34995C-6FAC-4D64-8187-AAEE44CB4B8B</string>
 </dict>
 </plist>
